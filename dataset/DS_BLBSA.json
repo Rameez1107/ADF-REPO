@@ -2,7 +2,7 @@
 	"name": "DS_BLBSA",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "LS_BLBSA",
+			"referenceName": "LS_BLBBBSA",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],
