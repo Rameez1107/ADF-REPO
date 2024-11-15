@@ -1,0 +1,17 @@
+{
+	"name": "practicepipeline2",
+	"properties": {
+		"activities": [
+			{
+				"name": "Waitfor1seconds",
+				"type": "Wait",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"waitTimeInSeconds": 10
+				}
+			}
+		],
+		"annotations": []
+	}
+}
